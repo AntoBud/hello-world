@@ -1,1 +1,45 @@
-Geee
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Monday Live</title>
+</head>
+<body>
+	<h1>Welcome to Monday Live</h1>
+	<p>We are a community organization that hosts live events on Monday nights at 3pm ET, featuring discussions about smart buildings with a panel of experts.</p>
+
+	<h2>Upcoming Events</h2>
+	<ul>
+		<li>Event 1: Introduction to Smart Buildings</li>
+		<li>Event 2: Energy Efficiency in Smart Buildings</li>
+		<li>Event 3: Security and Privacy in Smart Buildings</li>
+	</ul>
+
+	<h2>Past Events</h2>
+	<ul>
+		<li>Event A: The Future of Work in Smart Buildings</li>
+		<li>Event B: Smart Building Case Studies</li>
+		<li>Event C: Designing for Human Well-Being in Smart Buildings</li>
+	</ul>
+
+	<h2>Panelists</h2>
+	<ul>
+		<li>Panelist 1</li>
+		<li>Panelist 2</li>
+		<li>Panelist 3</li>
+		<li>Panelist 4</li>
+		<li>Panelist 5</li>
+		<li>Panelist 6</li>
+		<li>Panelist 7</li>
+		<li>Panelist 8</li>
+		<li>Panelist 9</li>
+		<li>Panelist 10</li>
+		<li>Panelist 11</li>
+		<li>Panelist 12</li>
+	</ul>
+
+	<h2>Contact Us</h2>
+	<p>Email: info@mondaylive.org</p>
+	<p>Phone: 555-555-5555</p>
+	<p>Location: Online via Zoom</p>
+</body>
+</html>
